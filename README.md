@@ -1,10 +1,10 @@
 ### Hello you beautiful people 👋
 
 
-- 🔭 I’m currently working on developing secure web application
-- 🌱 I’m currently learning spring framework and javascript
-- 👯 I’m looking to collaborate on J2EE technologies
-- 🤔 I’m looking for help with front-end development(JS)
+- 🔭 I’m currently working on web automation
+- 🌱 I’m currently learning selenium
+- 👯 I’m looking to collaborate on automation testing
+- 🤔 I’m looking for help with cloud automation
 - 💬 Ask me about anything and give me some time.
 - 📫 How to reach me: qfazil.lee@gmail.com
 - 😄 Pronouns: he/him
